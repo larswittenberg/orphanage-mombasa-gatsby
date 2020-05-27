@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Abdul",
+		"date": "2011",
+		"src": "../images/children2/abdul.jpg"
+	},
+	{
+		"name": "Ali",
+		"date": "2009",
+		"src": "../images/children2/ali.jpg"
+	},
+	{
+		"name": "Ochi",
+		"date": "2010",
+		"src": "../images/children2/ochi.jpg"
+	},
+	{
+		"name": "Sangali",
+		"date": "2011",
+		"src": "../images/children2/sangali.jpg"
+	},
+	{
+		"name": "Lewis",
+		"date": "2011",
+		"src": "../images/children2/lewis.jpg"
+	},
+	{
+		"name": "John",
+		"date": "2010",
+		"src": "../images/children2/john.jpg"
+	},
+	{
+		"name": "Brenda",
+		"date": "2008",
+		"src": "../images/children2/brenda.jpg"
+	},
+	{
+		"name": "Patrick",
+		"date": "2007",
+		"src": "../images/children2/patrick_1.jpg"
+	},
+	{
+		"name": "Alice",
+		"date": "2009",
+		"src": "../images/children2/alice.jpg"
+	},
+	{
+		"name": "Mnene",
+		"date": "2009",
+		"src": "../images/children2/mnene.jpg"
+	},
+	{
+		"name": "Junior",
+		"date": "2008",
+		"src": "../images/children2/junior.jpg"
+	},
+	{
+		"name": "Kevin",
+		"date": "2006",
+		"src": "../images/children2/kevin.jpg"
+	},
+	{
+		"name": "William",
+		"date": "2006",
+		"src": "../images/children2/william.jpg"
+	},
+	{
+		"name": "Brian",
+		"date": "2006",
+		"src": "../images/children2/brian.jpg"
+	},
+	{
+		"name": "Patrick",
+		"date": "2007",
+		"src": "../images/children2/patrick_2.jpg"
+	},
+	{
+		"name": "Harrison",
+		"date": "2006",
+		"src": "../images/children2/harrison.jpg"
+	}
+]
