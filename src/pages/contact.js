@@ -22,7 +22,7 @@ const ContactPage = () => (
 						<strong>Child of Mercy Orphanage Centre (COMOC)</strong>
 						<br />
 							P.O. Box: 1251-80100, Mombasa<br />
-							Phone +254 721788731 or +254 703137337<br />
+							Phone +254 781428269 or +254 727449389<br />
 							<a href="mailto:childofmercycentre_2010@yahoo.com">childofmercycentre_2010@yahoo.com</a>
 					</address>
 					<p>
