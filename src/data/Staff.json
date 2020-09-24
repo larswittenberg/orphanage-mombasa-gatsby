@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Jessica",
+		"title": "Centre Director",
+		"src": "../images/staff/jessica.jpg"
+	}, {
+		"name": "James Mbotela",
+		"title": "Manager",
+		"src": "../images/staff/james.jpg"
+	}, {
+		"name": "Peter",
+		"title": "Volunteer Director",
+		"src": "../images/staff/peter.jpg"
+	}, {
+		"name": "Evelyn",
+		"title": "Sen. Housemother",
+		"src": "../images/staff/evelyn.jpg"
+	}, {
+		"name": "Rose",
+		"title": "Housemother",
+		"src": "../images/staff/rose.jpg"
+	}, {
+		"name": "Belinda",
+		"title": "Housemother",
+		"src": "../images/staff/belinda.jpg"
+	}, {
+		"name": "Lilian",
+		"title": "Cook / Housemother",
+		"src": "../images/staff/lilian.jpg"
+	}, {
+		"name": "Geoffrey",
+		"title": "Groundsman",
+		"src": "../images/staff/geoffrey.jpg"
+	}, {
+		"name": "Charles",
+		"title": "Nightwatchman",
+		"src": "../images/staff/charles.jpg"
+	}, {
+		"name": "Irene",
+		"title": "Housemother Western Kenya Area",
+		"src": "../images/staff/irene.jpg"
+	}
+]
