@@ -34,5 +34,6 @@ public
 # dotenv environment variables file
 .env
 .env.development
+.env.production
 
 .vercel
