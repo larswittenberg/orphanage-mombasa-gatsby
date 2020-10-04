@@ -55,18 +55,11 @@ const ProjectsPage = () => (
 				</div>
 				<div className="col-md-4">
 					<h3>Donate</h3>
-					<p>If you would like to support us and make a contribution, we will be very
+					<p>
+						If you would like to support us and make a contribution, we will be very
 						happy and thankful. All donations are gratefully received and will make a big
 						difference to our work.
-						<br/>Thank you so much!</p>
-					<p>
-						Contact:
-						<br/>
-						Peter and Vanessa Bragg<br/>
-						<a href="mailto:info@aid4orphans.com">info@aid4orphans.com</a>
-					</p>
-					<p>
-						<a href="http://www.aid4orphans.com/Donate.html" target="_blank" rel="noopener noreferrer">Donate at Peters Website</a>
+						<br/>Thank you so much!
 					</p>
 				</div>
 			</div>

@@ -26,16 +26,10 @@ const ContactPage = () => (
 							<a href="mailto:childofmercycentre_2010@yahoo.com">childofmercycentre_2010@yahoo.com</a>
 					</address>
 					<p>
-						E-Mail contact Germany:
-						<a href="mailto:maren-wittenberg@web.de">Maren Wittenberg</a>
+						E-Mail contact Germany: <a href="mailto:maren-wittenberg@web.de">Maren Wittenberg</a>
 					</p>
 					<p>
-						E-Mail contact UK:
-						<a href="mailto:info@aid4orphans.com">Peter Bragg</a>
-					</p>
-					<p>
-						Concept, design, implementation:
-						<a href="https://larswittenberg.de/" target="_blank" rel="noopener noreferrer">Lars Wittenberg</a>
+						Concept, design, implementation: <a href="https://larswittenberg.de/" target="_blank" rel="noopener noreferrer">Lars Wittenberg</a>
 					</p>
 				</div>
 				<div className="col-md-7">
